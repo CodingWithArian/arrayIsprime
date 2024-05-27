@@ -28,7 +28,7 @@ namespace arrayIsprime
                     numbers[i, j] = int.Parse(Console.ReadLine());
                 
             }
-            Console.WriteLine("Your Array is");
+            Console.WriteLine("Your Array iss");
             for (int i = 0; i < numbers.GetLength(0); i++)
             {
 
